@@ -1,0 +1,37 @@
+*{
+  background-color: #121212;
+  color: white;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.inn-ema{
+  height: 30px;
+  width: 100%px;
+  border: 2px solid white;
+  border-radius: 10px;
+  color: aqua;
+}
+
+.inn-pss{
+  height: 30px;
+  width: 100%px;
+  border: 2px solid white;
+  border-radius: 10px;
+  color: orange;
+}
+
+button{
+  height: 35px;
+  width: 70px;
+  background-color: blue;
+  color: white;
+  border: 2px solid red;
+  border-radius: 5px;
+  font-size: large;
+}
